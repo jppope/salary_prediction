@@ -1,0 +1,9 @@
+venv
+data/Salary_Data.csv
+data/linear_regression_model.pkl
+data/training_X.pkl
+data/training_y.pkl
+data/testing_X.pkl
+data/testing_y.pkl
+.vscode
+.DS_Store
